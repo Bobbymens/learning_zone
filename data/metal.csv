@@ -1,0 +1,22 @@
+name,units,price,change,perc_change,contract,time (edt)
+Gold (Comex),USD/t oz,"2,310.60",1.0,+0.04%,Jun 2024,8:38 PM
+Gold (Tokyo),JPY/g,"11,363.00",-209.0,-1.81%,Apr 2025,8:28 PM
+Gold Spot,USD/t oz,"2,302.60",-1.23,-0.05%,NaN,8:48 PM
+Gold/Euro Spot,EUR/t oz,"2,145.79",-0.3,-0.01%,NaN,8:48 PM
+Gold/British Pound Spot,GBP/t oz,"1,836.09",-1.83,-0.10%,NaN,8:48 PM
+Gold/Japanese Yen Spot,JPY/t oz,"353,075.31",-892.97,-0.25%,NaN,8:48 PM
+Gold/Indian Rupee Spot,INR/t oz,"192,181.13",143.59,+0.07%,NaN,8:48 PM
+Silver (Comex),USD/t oz,26.88,0.05,+0.19%,Jul 2024,8:38 PM
+Silver (Tokyo),JPY/gram,134.00,-1.1,-0.81%,Apr 2025,12:00 AM
+Silver Spot,USD/t oz,26.67,-0.01,-0.05%,NaN,8:49 PM
+Silver/Euro Spot,EUR/t oz,24.84,0.04,+0.17%,NaN,8:49 PM
+Silver/British Pound Spot,GBP/t oz,21.26,-0.03,-0.13%,NaN,8:48 PM
+Silver/Japanese Yen Spot,JPY/t oz,"4,087.46",-12.2,-0.30%,NaN,8:49 PM
+Silver/Indian Rupee Spot,INR/t oz,"2,225.58",10.39,+0.47%,NaN,8:49 PM
+Platinum Spot,USD/t oz,958.86,4.13,+0.43%,NaN,8:49 PM
+Palladium Spot,USD/t oz,941.75,4.73,+0.50%,NaN,8:49 PM
+Copper (Comex),USd/lb,450.30,1.85,+0.41%,Jul 2024,8:38 PM
+3Mo Copper (LME),USD/MT,"9,765.50",-130.0,-1.31%,NaN,12:00 AM
+3Mo Aluminum (LME),USD/MT,"2,528.00",-49.5,-1.92%,NaN,12:00 AM
+3Mo Zinc (LME),USD/MT,"2,886.00",5.0,+0.17%,NaN,12:00 AM
+3Mo Tin (LME),USD/MT,"30,970.00",367.0,+1.20%,NaN,12:00 AM
